@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/garyouyang9449/garyouyang9449.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garyouyang9449/garyouyang9449.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Zhaoge (Gary) Ouyang
+**[Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
+[myself](./myself.png)
+## Background
+I am currently a Junior studying Math - Computer Science at UC San Diego. My background is primarily in backend development, and I have experience in different programming languages, including Java, Python, C, C++, and SQL. I also have experience working with Amazon web services. Last summer, I worked as a software engineer intern at a startup, where I wrote and deployed Node.js async backend code and Serverless via AWS Lambda to train a recommending system. I am currently working as an undergraduate researcher/Software Engineer within the Paesani Research Group under Professor Francesco Paesani. My main responsibility is to design and create extrapolation systems for computational chemistry. I am also working as a Part-Time Software Engineer Intern at HouseCall Pro. Recently, I developed an interest and self study in data science. In my recent project financial dataset, I want to create a dataset that allows the user to have quick access to financial data, and I am planning to develop an api to allow user query financial data.
+## Skills
+- Java
+- Python
+- C/C++
+- JavaScript
+- Unix
+- SQL
+- Git
+- AWS
