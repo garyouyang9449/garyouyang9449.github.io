@@ -17,15 +17,15 @@ Selected Coursework: _Java Programming, Data Structures and OO Design, Software 
 
 ## Programming Languages/Skills
 1. Programming Languages
-  - Java
-  - Python
-  - C/C++
-  - JavaScript
-  - Unix
-  - SQL
+    - Java
+    - Python
+    - C/C++
+    - JavaScript
+    - Unix
+    - SQL
 2. Skills
-  - Git
-  - AWS
+    - Git
+    - AWS
 
 ## Professional Experience
 **_Software Engineer Intern, Housecall Pro | Jan 2021 - Present_**
