@@ -16,14 +16,16 @@ _**Bachelor of Science in Mathematics - Computer Science**_ | _Jun 2022_
 Selected Coursework: _Java Programming, Data Structures and OO Design, Software Engineering, Algorithms/Theory of Computation, Programming Languages: Principle & Paradigm, Discrete Math and Graph Theory, AI: Search and Reasoning_
 
 ## Programming Languages/Skills
-- Java
-- Python
-- C/C++
-- JavaScript
-- Unix
-- SQL
-- Git
-- AWS
+1. Programming Languages
+  - Java
+  - Python
+  - C/C++
+  - JavaScript
+  - Unix
+  - SQL
+2. Skills
+  - Git
+  - AWS
 
 ## Professional Experience
 **_Software Engineer Intern, Housecall Pro | Jan 2021 - Present_**
