@@ -13,7 +13,15 @@ I am currently a Junior studying Math - Computer Science at UC San Diego. My bac
 ### University of California, San Diego | La Jolla, CA
 _**Bachelor of Science in Mathematics - Computer Science**_ | _Jun 2022_
 
-Selected Coursework: _Java Programming, Data Structures and OO Design, Software Engineering, Algorithms/Theory of Computation, Programming Languages: Principle & Paradigm, Discrete Math and Graph Theory, AI: Search and Reasoning_
+Selected Coursework: 
+
+- Java Programming
+- Data Structures and OO Design
+- Software Engineering
+- Algorithms/Theory of Computation
+- Programming Languages: Principle & Paradigm
+- Discrete Math and Graph Theory
+- AI: Search and Reasoning
 
 ## Programming Languages/Skills
 1. Programming Languages
