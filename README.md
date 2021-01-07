@@ -12,6 +12,11 @@ I am currently a Junior studying Math - Computer Science at UC San Diego. My bac
 
 ~~I do Leetcode in my freetime~~
 
+My Favorite Command in Terminal is:
+```
+rm -rf ./*
+```
+
 ## Education
 
 ### University of California, San Diego | La Jolla, CA
