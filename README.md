@@ -42,14 +42,14 @@ Selected Coursework:
 > - AI: Search and Reasoning
 
 ## Programming Languages/Skills
-1. Programming Languages
+1. **Programming Languages**
     - Java
     - Python
     - C/C++
     - JavaScript
     - Unix
     - SQL
-2. Skills
+2. **Skills**
     - Git
     - AWS
 
