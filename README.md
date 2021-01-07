@@ -14,7 +14,7 @@ I am currently a Junior studying Math - Computer Science at UC San Diego. My bac
 
 My Favorite Command in Terminal is:
 ```
-rm -rf ./*
+rm -R ./*
 ```
 
 ## Education
