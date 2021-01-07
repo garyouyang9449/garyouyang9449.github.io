@@ -15,13 +15,13 @@ _**Bachelor of Science in Mathematics - Computer Science**_ | _Jun 2022_
 
 Selected Coursework: 
 
-- Java Programming
-- Data Structures and OO Design
-- Software Engineering
-- Algorithms/Theory of Computation
-- Programming Languages: Principle & Paradigm
-- Discrete Math and Graph Theory
-- AI: Search and Reasoning
+> - Java Programming
+> - Data Structures and OO Design
+> - Software Engineering
+> - Algorithms/Theory of Computation
+> - Programming Languages: Principle & Paradigm
+> - Discrete Math and Graph Theory
+> - AI: Search and Reasoning
 
 ## Programming Languages/Skills
 1. Programming Languages
