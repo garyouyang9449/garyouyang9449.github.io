@@ -1,5 +1,5 @@
 # Zhaoge (Gary) Ouyang
-**[Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
+**Connect with me on [Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
 
 **[Professional Experience](#professional-experience)**
 
