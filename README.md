@@ -1,7 +1,7 @@
 # Zhaoge (Gary) Ouyang
 **[Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
 
-**[Professional Experience](##-Professional-Experience)**
+**[Professional Experience](#Professional-Experience)**
 
 ![myself](myself.JPG)
 
@@ -14,6 +14,11 @@ I am currently a Junior studying Math - Computer Science at UC San Diego. My bac
 
 ### University of California, San Diego | La Jolla, CA
 _**Bachelor of Science in Mathematics - Computer Science**_ | _Jun 2022_
+
+- [x] Freshmen
+- [x] Sophomore
+- [ ] Junior
+- [ ] Senior
 
 Selected Coursework: 
 
@@ -37,7 +42,7 @@ Selected Coursework:
     - Git
     - AWS
 
-## Professional Experience
+##Professional Experience
 **_Software Engineer Intern, Housecall Pro | Jan 2021 - Present_**
 
 **_Undergraduate Researcher/Software Engineer, UCSD - Paesani Research Group | Oct 2020 – Present_**
