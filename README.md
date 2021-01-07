@@ -12,7 +12,7 @@ I am currently a Junior studying Math - Computer Science at UC San Diego. My bac
 
 ~~I do Leetcode in my freetime~~
 
-My Favorite Command in Terminal is:
+My Favorite Linux Command is:
 ```
 rm -R ./*
 ```
