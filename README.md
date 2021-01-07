@@ -42,7 +42,7 @@ Selected Coursework:
     - Git
     - AWS
 
-##Professional Experience
+## Professional Experience
 **_Software Engineer Intern, Housecall Pro | Jan 2021 - Present_**
 
 **_Undergraduate Researcher/Software Engineer, UCSD - Paesani Research Group | Oct 2020 – Present_**
