@@ -1,6 +1,8 @@
 # Zhaoge (Gary) Ouyang
 **[Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
 
+**[Professional Experience](##-Professional-Experience)**
+
 ![myself](myself.JPG)
 
 ## Intorduction and Background
