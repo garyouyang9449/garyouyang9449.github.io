@@ -1,6 +1,8 @@
 # Zhaoge (Gary) Ouyang
 **Connect with me on [Linkedin](https://www.linkedin.com/in/gary-ouyang-455469175)**
 
+**[Education](#university-of-california-san-diego--la-jolla-ca)**
+
 **[Professional Experience](#professional-experience)**
 
 **[Project Experience](#project-experience)**
